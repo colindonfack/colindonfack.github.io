@@ -18,7 +18,7 @@ Here is [my repository](https://github.com/colindonfack/colindonfack.github.io)
 Site-wide configuration
 ------
 
-Here is  ![Some pic](/images/blue-futuristic-networking-technolog){: .align-left width="300px"} ![Some pic](/images/blue-futuristic-networking-technolog){: .align-right width="300px"}
+Here is  ![Some pic](/images/blue-futuristic-networking-technology.jpg){: .align-left width="300px"} ![Some pic](/images/woman-holding-magnifying-glass-picking-man.jpg){: .align-right width="300px"}
 
 Then what ?
 
