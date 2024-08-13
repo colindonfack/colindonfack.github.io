@@ -9,11 +9,8 @@ redirect_from:
 
 I am a final year PhD student with research interest in empirical industrial organization, platform economics, applied econometrics
 
-A data-driven personal website
+
 ======
-
-Here is [my repository](https://github.com/colindonfack/colindonfack.github.io)
-
 
 
 
