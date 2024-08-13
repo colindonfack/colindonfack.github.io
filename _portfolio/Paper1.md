@@ -8,3 +8,7 @@ This study is an empirical analysis of the effect of a new platform provider ent
 </div>
 <br>
 [Access the Paper Here](/files/Job_Market_Paper.pdf)
+
+<br>
+<br>
+[Two-sided market](/images/TwoSidedMarketGraph.png){ .align-center width="500px" height="400px"}
