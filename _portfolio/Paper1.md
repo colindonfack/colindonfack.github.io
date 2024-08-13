@@ -10,5 +10,5 @@ This study is an empirical analysis of the effect of a new platform provider ent
 [Access the Paper Here](/files/Job_Market_Paper.pdf)
 
 <br>
-<br>
+
 ![Two-sided market](/images/TwoSidedMarketGraph.png){: .align-center width="800px" height="600px"}
