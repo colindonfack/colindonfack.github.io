@@ -11,4 +11,4 @@ This study is an empirical analysis of the effect of a new platform provider ent
 
 <br>
 <br>
-![Two-sided market](/images/TwoSidedMarketGraph.png){ .align-center width="500px" height="400px"}
+![Two-sided market](/images/TwoSidedMarketGraph.png){: .align-center width="500px" height="400px"}
