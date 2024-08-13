@@ -14,7 +14,11 @@ redirect_from:
 <br>
 
 
-**I am a final year PhD student with research interest in empirical industrial organization, platform economics, applied econometrics**
+**I am a final year PhD student with research interest in:**
+
+- ***empirical industrial organization;***
+- ***platform economics,***
+- ***applied econometrics***
 
 <br>
 <br>
