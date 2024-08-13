@@ -7,14 +7,19 @@ redirect_from:
   - /about.html
 ---
 
+
+
+
+
 I am a final year PhD student with research interest in empirical industrial organization, platform economics, applied econometrics
 
 
-======
 
 
 
-![Some pic](/images/blue_futuristic_networking_technology.jpg){: .align-left width="300px"}     ![Some Other pic](/images/woman_holding_magnifying_glass_picking_man.jpg){: .align-right width="300px"}
+
+
+![Some pic](/images/blue_futuristic_networking_technology.jpg){: .align-left width="400px" height="300"}     ![Some Other pic](/images/woman_holding_magnifying_glass_picking_man.jpg){: .align-right width="400px" height="300"}
 
 
 
