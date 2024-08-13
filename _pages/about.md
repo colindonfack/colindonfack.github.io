@@ -27,8 +27,8 @@ redirect_from:
 
 <br>
 <p float="left">
-  <img src="/images/blue_futuristic_networking_technology.jpg" width="375" height="300" />
-  <img src="/images/woman_holding_magnifying_glass_picking_man.jpg" width="375" height="300" /> 
+  <img src="/images/blue_futuristic_networking_technology.jpg" width="375px" height="300px" />
+  <img src="/images/woman_holding_magnifying_glass_picking_man.jpg" width="375px" height="300px" /> 
 </p>
 
 
