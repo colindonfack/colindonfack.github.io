@@ -8,7 +8,7 @@ This study is an empirical analysis of the effect of a new platform provider ent
 </div>
 <br>
 
-[Access the Paper Here](/files/Job_Market_Paper.pdf)
+[Access the Paper Here](/files/MultihomingPaper.pdf)
 
 <br>
 
