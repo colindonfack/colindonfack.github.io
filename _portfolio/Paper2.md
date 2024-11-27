@@ -9,6 +9,6 @@ collection: portfolio
 
 <br>
 
-[Access the Paper Here](/files/IntervalSales.pdf)
+[Access the Paper Here](/files/IntervalDemandPaper.pdf)
 
 <br>
