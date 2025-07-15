@@ -12,7 +12,7 @@ redirect_from:
 <br>
 
 
-**I am a final year PhD student with research interest in:**
+**I recently completed a PhD in Economics. My research interests include:**
 
 - ***empirical industrial organization;***
 - ***platform economics,***
