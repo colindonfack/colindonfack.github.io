@@ -1,0 +1,69 @@
+[
+  {
+    "title": "Dynamic Multihoming by Content Providers in Platform-based Markets: Focus on the US Videogaming Industry",
+    "authors": "Colin Ndonfack",
+    "venue": "Job market paper",
+    "_year": 2025,
+    "_abstract": "Example abstract. Replace with your own.",
+    "tags": [
+      "Two-sided Markets", 
+      "content supply",
+      "Dynamic choice"
+    ],
+    "links": [
+      {
+        "label": "PDF",
+        "href": "/assets/MultihomingPaper.pdf"
+      }
+    ]
+  },
+    {
+    "title": "Demand analysis with interval-valued sales",
+    "authors": "Colin Ndonfack",
+    "venue": "Working paper",
+    "_year": 2025,
+    "_abstract": "Example abstract. Replace with your own.",
+    "tags": [
+      "Demand estimation",
+      "Interval data",
+      "Partial Identification"
+      
+    ],
+    "links": [
+      {
+        "label": "PDF",
+        "href": "/assets/IntervalDemandPaper.pdf"
+      }
+    ]
+  },
+  {
+    "title": "Estimating marginal costs from discrete prices and product characteristics: An application to mobile plans",
+    "authors": "Mathieu Marcoux & Colin Ndonfack",
+    "venue": "Working paper",
+    "_year": 2024,
+    "_abstract": "Example abstract. Replace with your own.",
+    "tags": [
+      "Discrtete Choice",
+      "Marginal cost",
+      "Market power"
+    ]
+  },
+  {
+    "title": "Public Actors’ Expenditures and Pollution in the Waste Management Sector",
+    "authors": "Rinelle Tekeu & Colin Ndonfack",
+    "venue": "Working paper",
+    "_year": 2025,
+    "_abstract": "Example abstract. Replace with your own.",
+    "tags": [
+      "waste management",
+      "pollution",
+      "public investment"
+    ],
+    "links": [
+      {
+        "label": "PDF",
+        "href": "/assets/WasteManagementPaper.pdf"
+      }
+    ]
+  }
+]
