@@ -1,5 +1,23 @@
 [
   {
+    "title": "Three Essays in empirical analysis of supply and demand",
+    "authors": "Colin Ndonfack",
+    "venue": "PhD thesis, Université de Montréal",
+    "year": 2024,
+    "_abstract": "Example abstract. Replace with your own.",
+    "tags": [
+      "Technology adoption", 
+      "Demand estimation",
+      "Pricing"
+    ],
+    "links": [
+      {
+        "label": "PDF",
+        "href": "/assets/MultihomingPaper.pdf"
+      }
+    ]
+  },
+  {
     "title": "Dynamic Multihoming by Content Providers in Platform-based Markets: Focus on the US Videogaming Industry",
     "authors": "Colin Ndonfack",
     "venue": "Job market paper",
@@ -7,7 +25,7 @@
     "_abstract": "Example abstract. Replace with your own.",
     "tags": [
       "Two-sided Markets", 
-      "content supply",
+      "Content supply",
       "Dynamic choice"
     ],
     "links": [
